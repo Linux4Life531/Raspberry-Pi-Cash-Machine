@@ -18,15 +18,15 @@ There must be a input NFC scanner & Keypad, that allows users to scan there card
 All of the components are compatible with the raspberry pi and python.
 ### Links to the tutorials
 - [Using the keypad](https://maker.pro/raspberry-pi/tutorial/how-to-use-a-keypad-with-a-raspberry-pi-4)
-- [Using the LCD](https://pimylifeup.com/raspberry-pi-lcd-16x2/)
-- [Using the NFC reader](https://www.youtube.com/watch?v=8_tLz9PI_qA) or [on pi my life up](https://pimylifeup.com/raspberry-pi-rfid-rc522/)
+- [Using the LCD](https://www.youtube.com/watch?v=zC3i3CbKZfw)
+- [Using the NFC reader](https://pimylifeup.com/raspberry-pi-rfid-rc522/)
 ## Planning out the circuit
 ### Are there enough GPIO pins?
 Yes - There are 26 GPIO pins, however we use up 18 with this project (5 for the LCD, 8 for the keypad and 5 for the NFC, with 8 pins to spare).
 ### Can all of the components be controlled with python?
 Yes - each of them has libraries in python, so that each of them.
 ### The actual plan
-![Plan](media/RaspberryPiCashMachineData.jpg) 
+![Plan](https://github.com/Linux4Life531/Raspberry-Pi-Cash-Machine/blob/master/documentation/media/RaspberryPiCashMachineData.png) 
 ### What does each pin mean on the RFID NFC Reader
 - GND = Ground Voltage
 - 3.3V = Positive voltage for the reader
