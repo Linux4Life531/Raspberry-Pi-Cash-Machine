@@ -1,20 +1,7 @@
 Project: Python + Electronics + Raspberry Pi
 ========================
-## My Goals
-- I want the robotics to be programmed in python
-- I want to learn and use a new python module, that I have never used before in this project
-- I want to use 1 new input component, (*like a keypad*) and 1 new output component (*like a pixel screen thing*)
-- This means that I learn something new with python, and learn some new electronics
-- I chose RPi over Arduino because it allows me to program in languages I am more comfortable with (I.e python and bash rather than C++ Arduino Version)
-- I chose python because that is my favorite language, the language I am most comfortable with, and the language that I know how to use the GPIO pins with.
-- So the tick boxes are:
-   - [ ] Learn & Use a completely new python library in some way, either another input, a process handler, or another output.
-   - [ ] Use 1 input component and 1 output component that I have never used before, and learn how to use them properly
-   - [ ] Use a Raspberry Pi 
-   - [ ] Use Python to program it
-## My Project
 ### Goal
-There must be a input NFC scanner & Keypad, that allows users to scan there card and type in their pin, and then a pixel output-er to show the user whether It was successful or not. I will use the JSON python library to add NFC card to the scannable  NFC cards
+There must be a input NFC scanner & Keypad, that allows users to scan there card and type in their pin, and then a pixel output-er to show the user whether It was successful or not. I will use the JSON python library to add NFC card to the scannable NFC cards
 ### Hardware:
 - Raspberry Pi
 - LCD Display
