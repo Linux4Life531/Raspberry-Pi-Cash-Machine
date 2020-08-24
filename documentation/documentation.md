@@ -1,4 +1,4 @@
-Project: Python + Electronics + Raspberry Pi
+Project: Raspberry Pi Cash Machine
 ========================
 ### Goal
 There must be a input NFC scanner & Keypad, that allows users to scan there card and type in their pin, and then a pixel output-er to show the user whether It was successful or not. I will use the JSON python library to add NFC card to the scannable NFC cards
