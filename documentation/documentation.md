@@ -26,8 +26,7 @@ Yes - There are 26 GPIO pins, however we use up 18 with this project (5 for the 
 ### Can all of the components be controlled with python?
 Yes - each of them has libraries in python, so that each of them.
 ### The actual plan
-[Here](https://www.tinkercad.com/things/jvOSWZK6szz-raspberry-pi-nfc-keypad-and-lcd-display/editel) is the actual wiring setup.
-
+![Plan](media/RaspberryPiCashMachineData.jpg) 
 ### What does each pin mean on the RFID NFC Reader
 - GND = Ground Voltage
 - 3.3V = Positive voltage for the reader
